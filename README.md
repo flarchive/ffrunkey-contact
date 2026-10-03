@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of ffrunkey/contact.** Not for installation: use [Packagist](https://packagist.org/packages/ffrunkey/contact) or the [upstream repository](https://github.com/ffRunKey/contact).
 
-**0** versions archived · Latest: [`0.1.3`](https://github.com/flarchive/ffrunkey-contact/tree/archive/v0.1.3) · License: `MIT` · Flarum: `^0.1.0-beta.8`
+**1** versions archived · Latest: [`0.1.3`](https://github.com/flarchive/ffrunkey-contact/tree/archive/v0.1.3) · License: `MIT` · Flarum: `^0.1.0-beta.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.3` | 2019-04-12 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/ffrunkey-contact/tree/archive/v0.1.3) |
 
 Catalog entry: [packages/ffrunkey-contact.json](https://github.com/flarchive/archive-index/blob/main/packages/ffrunkey-contact.json)
 
